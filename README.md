@@ -14,14 +14,21 @@
 <img src="https://github.com/user-attachments/assets/7dd0fb61-18d2-46ef-be80-2b259c85347f"/>
 <img src="https://github.com/user-attachments/assets/b6069b93-f306-470c-a3e2-268ebf570a03"/>
 <img src="https://github.com/user-attachments/assets/3f4ddb77-1e31-4282-a495-d638ea288ba49"/>
+<img src="https://github.com/user-attachments/assets/655be0c7-0d70-4b2b-ba96-f46633de6ab7"/>
 
+<br><br><br><br>
 
 - 프로젝트 소개글( 왜 이 프로젝트를 시작했는지 ) : https://blog.naver.com/wjavmtngkr1/223657675707
 
 <br>
+
+
 - TimeAuction은 자신의 시간을 판매할 수 있습니다.
+
 - 경매또는 시간당으로 판매할 수 있습니다.
+  
 - 경매에 참여하기 위해서는 경매권을 구입하고 참여할 수 있고 , 일반시간구매는 1:1 로 채팅을 보내서 시간을 구입합니다.
+  
 - 경매 입찰에 성공할 경우 ( 최고 입찰금을 냈을 경우 ) 경매 생성자와 입찰자간의 채팅방이 자동으로 생성됩니다.
 
 <br>
