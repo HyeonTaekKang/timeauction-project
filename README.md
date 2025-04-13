@@ -1,3 +1,3 @@
-# timeauction-project
-timeauction 프로젝트 
-[소개이미지1.pdf](https://github.com/user-attachments/files/19726195/1.pdf)
+## 📝 프로젝트 소개
+시간을 사고 파는 새로운 개념의 플랫폼 타임옥션.
+(https://github.com/HyeonTaekKang/timeauction-project/issues/1#issue-2991349495)
