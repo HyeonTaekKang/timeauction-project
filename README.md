@@ -48,8 +48,8 @@
 
 ## ☁️ 개발 환경
 
-- Front : React
-- Back-end : Spring boot(3.0.6) , spring webflux , spring security , spring data jpa , querydsl , redis , mysql
+- Front : React , html , css
+- Back-end : java17( 8문법을 더 많이 사용 ) , Spring boot(3.0.6) , spring webflux , spring security , spring data jpa , querydsl , redis , mysql
 - devOps : amplify , lambda , api gateway , rds , s3 , cloudwatch , ec2 , elasticache 
 - 버전관리 : Github
 <br>
