@@ -85,9 +85,8 @@ https://github.com/HyeonTaekKang/timeauctionfront/tree/master
 - chat ( 채팅 ) : https://github.com/HyeonTaekKang/timeauction-chat
 - portone ( 결제 ) : https://github.com/HyeonTaekKang/timeauction-portone
 - notification ( 알림 ) : https://github.com/HyeonTaekKang/timeauction-notification
-- auctionEnded ( 경매 종료 )
-- auth ( 인증 )
-- search ( 검색 )
+- auctionEnded ( 경매 종료 ) : https://github.com/HyeonTaekKang/timeauction-auctionended
+- auth ( 인증 ) : https://github.com/HyeonTaekKang/timeauction-auth
 
 <br>
 
@@ -95,9 +94,7 @@ https://github.com/HyeonTaekKang/timeauctionfront/tree/master
 - 특정요일이나 시간에 이벤트 발생시키기 : https://blog.naver.com/wjavmtngkr1/223657860103
 - 대기열 시스템 개발기 : https://blog.naver.com/wjavmtngkr1/223663997672
 - 동시성 문제 해결해보기https://blog.naver.com/wjavmtngkr1/223664920257
-- aws lambda에 배포하며 느낌점과 고민들 : https://blog.naver.com/wjavmtngkr1/223829903880
-- 
-
+- aws lambda에 배포하며 느낌점과 고민들 그리고 팁까지 : https://blog.naver.com/wjavmtngkr1/223829903880
 
 
 
