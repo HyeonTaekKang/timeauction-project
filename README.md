@@ -58,6 +58,7 @@
 ## ⚙️ 시스템 아키텍쳐
 <img src="https://github.com/user-attachments/assets/03b96692-deb9-44ea-a9b7-a9d84e1b4f18"/>
 
+- aws lambda에 배포하며 느낌점과 고민들 그리고 팁까지 : https://blog.naver.com/wjavmtngkr1/223829903880
 - aws sam(Serverless Application Model)을 사용하여 api gateway + lambda 를 사용한 서버리스 시스템 아키텍쳐 개발
 - chat ( 채팅 ) 부분은 ec2 따로
 - 여러 기능들을 여러 lambda에 쪼개서 배포 ( MSA 는 아님 )
@@ -94,7 +95,6 @@ https://github.com/HyeonTaekKang/timeauctionfront/tree/master
 - 특정요일이나 시간에 이벤트 발생시키기 : https://blog.naver.com/wjavmtngkr1/223657860103
 - 대기열 시스템 개발기 : https://blog.naver.com/wjavmtngkr1/223663997672
 - 동시성 문제 해결해보기https://blog.naver.com/wjavmtngkr1/223664920257
-- aws lambda에 배포하며 느낌점과 고민들 그리고 팁까지 : https://blog.naver.com/wjavmtngkr1/223829903880
 
 
 
